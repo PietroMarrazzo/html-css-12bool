@@ -1,0 +1,23 @@
+/* GENERAL */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+
+/* TYPING */
+h1,
+h2 {
+  text-align: center;
+  margin: 30px;
+}
+
+
+/* box demo */
+.box {
+  text-align: center;
+  background-color: lightgray;
+  padding: 20px;
+}
